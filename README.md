@@ -48,6 +48,25 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+## Example 1:
+Cliffside Lion in Golden Light
+This image is a dramatic wildlife painting centered on a dominant male lion standing on the edge of a rugged mountain cliff. The visual style depends on warm, soft natural lighting that highlights the lion’s mane with subtle golden reflections while preserving fine fur detail. The composition uses an elevated vantage point, allowing the vast, densely forested valley below to stretch into hazy, distant mountains. The contrast between the sharply rendered rock textures and the atmospheric depth of the forest creates a sense of scale and quiet authority.
+
+### Basic Prompt:
+```
+a lion standing on a mountain cliff and seeing forest
+```
+### Image:
+<img width="572" height="340" alt="image" src="https://github.com/user-attachments/assets/13d309d9-77f6-4984-bc8e-b6e4f0834cc8" />
+
+
+### Next level prompt:
+```
+A realistic photograph of a majestic male lion standing proudly on the edge of a rugged mountain cliff during golden hour. The lion’s long, thick mane blows powerfully in the wind, with every individual hair sharply defined. Its left paw rests firmly on a small stone near the cliff’s edge, emphasizing a dominant, heroic stance. Below, an endless, dense forest stretches across rolling valleys into distant mist-covered mountains. Warm golden sunlight illuminates the lion’s muscular frame and rich fur texture, creating dramatic depth and contrast..
+```
+### Image:
+<img width="478" height="636" alt="image" src="https://github.com/user-attachments/assets/90968c2d-8167-4789-bdbe-1885617712f7" />
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
