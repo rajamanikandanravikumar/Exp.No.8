@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date :23-11-2025
+# Reg. No. 212223220082
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -67,8 +67,34 @@ A realistic photograph of a majestic male lion standing proudly on the edge of a
 ### Image:
 <img width="478" height="636" alt="image" src="https://github.com/user-attachments/assets/90968c2d-8167-4789-bdbe-1885617712f7" />
 
+### Elevated Prompt:
+````
+A hyper-realistic, ultra-detailed photograph of a majestic male lion standing proudly on the edge of a rugged mountain cliff during golden hour and staring at a herd of deers. The lion’s long, thick mane blows powerfully in the wind, with every individual hair sharply defined. Its left paw rests firmly on a small stone near the cliff’s edge, emphasizing a dominant, heroic stance. Below, an endless, dense forest stretches across rolling valleys into distant mist-covered mountains. Warm golden sunlight illuminates the lion’s muscular frame and rich fur texture, creating dramatic depth and contrast. The background features soft atmospheric haze, natural color grading, high dynamic range, and cinematic wildlife composition. Shot in ultra-sharp 8K clarity. The sky is in warm reddish sunset and some rainy clouds in the corner. Take reference from the lion king movie mufasa and generate in a high end cinematic way
+````
+
+### Image:
+<img width="1024" height="1536" alt="ChatGPT Image Nov 23, 2025, 02_37_22 PM" src="https://github.com/user-attachments/assets/ee0dd575-2497-4e4e-a91a-3b37b25ce36f" />
+
+
+
+## Example 2:
+It’s a calm, silent night by a lake surrounded by tall, dark trees. A huge full moon hangs in the sky, bright enough to light up the entire scene. The sky is filled with tiny stars scattered everywhere. The lake is so still that it acts like a perfect mirror, reflecting both the moon and the stars on its smooth surface. The whole scene feels peaceful, cold, and almost otherworldly — like a place untouched by anything except nature itself.
+
+### Basic Prompt:
+```
+a night sky of full moon,stars and their reflection on the lake waters
+```
+### Image:
+<img width="1024" height="1536" alt="ChatGPT Image Nov 23, 2025, 02_46_22 PM" src="https://github.com/user-attachments/assets/a05e7e98-df53-4d8c-a394-75fa91d3a745" />
+
+
+### Next Level of prompt:
+```
+A dreamy, cinematic nightscape over a calm lake lit by a glowing full moon. The sky is scattered with twinkling stars, and a flock of birds glides across the moonlit clouds. Two wooden boats drift toward each other on the quiet water, each carrying a couple and a boatman rowing gently through the reflection of the moon. The mood is serene, romantic, and slightly magical — with cool blue tones, soft highlights, glass-like reflections, and a stylish, high-end photographic atmosphere.
+```
+### IMAGE:
+<img width="480" height="655" alt="image" src="https://github.com/user-attachments/assets/680b1b2d-1f8b-4a27-b845-af62fcd5a883" />
+
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
-
-
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
